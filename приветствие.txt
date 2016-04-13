@@ -1,3 +1,1 @@
-write('Hello');
-write('your bunny wrote'); 
-write('what so funny,bitch?'); 
+write('Hello')
