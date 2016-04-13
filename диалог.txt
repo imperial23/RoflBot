@@ -3,3 +3,4 @@ readln(a);
 if a:=yes then write('I am glad!')
 else writeln('I dont like it');
 end;
+"вот примерно как то так"
