@@ -1,0 +1,5 @@
+write('Hello! Are you ok?');
+readln(a);
+if a:=yes then write('I am glad!')
+else writeln('I dont like it');
+end;
